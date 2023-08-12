@@ -1,4 +1,5 @@
 using server.Data;
+using server.Repositories.ProductRepo;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,8 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DataContext>(options=>{
     options.UseMySql(conn_string,ServerVersion.AutoDetect(conn_string));
 });
+
+builder.Services.AddScoped<IProductRepository,ProductRepository>();
 
 var app = builder.Build();
 

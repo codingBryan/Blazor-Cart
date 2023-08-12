@@ -1,6 +1,6 @@
 namespace server.Data;
 using Microsoft.EntityFrameworkCore;
-using server.entities;
+using server.entities.models;
 
 public class DataContext:DbContext
 {

@@ -1,4 +1,4 @@
-namespace server.entities
+namespace server.entities.models
 {
     public class CartItem{
         public int Id{ get; set; }
