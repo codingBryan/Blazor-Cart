@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "16jlsb45A1vh/VPXr/lFquyP6P8TTTjr+WqWzaxO4UeI9VsdIZrdPf+puwG9qr4ejwF5RQnahgg/1Axwxs52zg==",
+  "dgSpecHash": "vbzZtwXx4i13+9XzuZLL2RJJPV4lP40IXVdpTHlfzphsHbIUjDOJrnhX57xSYQ2cuLgFuBn5vWj4clXN6fVAEg==",
   "success": true,
   "projectFilePath": "/home/lone_wolf/Desktop/servers/blazor_server/server/server.csproj",
   "expectedPackageFiles": [
+    "/home/lone_wolf/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/lone_wolf/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/home/lone_wolf/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/lone_wolf/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/home/lone_wolf/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/lone_wolf/.nuget/packages/microsoft.entityframeworkcore/7.0.2/microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "/home/lone_wolf/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.2/microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",
     "/home/lone_wolf/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.2/microsoft.entityframeworkcore.analyzers.7.0.2.nupkg.sha512",

@@ -1,5 +1,3 @@
-using server.entities.models;
-
 namespace server.Repositories.ProductRepo
 {
     public interface IProductRepository

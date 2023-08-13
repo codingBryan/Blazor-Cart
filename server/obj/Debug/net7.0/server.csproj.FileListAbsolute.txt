@@ -41,3 +41,5 @@
 /home/lone_wolf/Desktop/servers/blazor_server/server/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
 /home/lone_wolf/Desktop/servers/blazor_server/server/bin/Debug/net7.0/Mono.TextTemplating.dll
 /home/lone_wolf/Desktop/servers/blazor_server/server/bin/Debug/net7.0/System.CodeDom.dll
+/home/lone_wolf/Desktop/servers/blazor_server/server/bin/Debug/net7.0/AutoMapper.dll
+/home/lone_wolf/Desktop/servers/blazor_server/server/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

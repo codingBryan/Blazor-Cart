@@ -1,13 +1,19 @@
-using server.Data;
-using server.Repositories.ProductRepo;
-using Microsoft.EntityFrameworkCore;
+global using AutoMapper;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using server.entities.models;
+global using server.entities.DTOs;
+global using server.Extensions;
+global using server.Repositories.ProductRepo;
+global using server.Data;
+global using server.Repositories.ProductRepo;
+
 
 var builder = WebApplication.CreateBuilder(args);
 var conn_string=builder.Configuration.GetConnectionString("ShoppingAppConnection");
-// Add services to the container.
 
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<DataContext>(options=>{
@@ -18,7 +24,6 @@ builder.Services.AddScoped<IProductRepository,ProductRepository>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
