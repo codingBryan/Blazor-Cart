@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/obj/Debug/net7.0/build-gz/HJ5ZSC9+.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/obj/Debug/net7.0/scopedcss/bundle/BlazorClient.styles.css",
+      "PackagePath": "staticwebassets/BlazorClient.styles.css"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Beauty/Beauty1.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty1.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Beauty/Beauty2.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty2.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Beauty/Beauty3.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty3.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Beauty/Beauty4.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty4.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Beauty/Beauty5.png",
+      "PackagePath": "staticwebassets/Images/Beauty/Beauty5.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Electronic/Electronics1.png",
+      "PackagePath": "staticwebassets/Images/Electronic/Electronics1.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Electronic/Electronics3.png",
+      "PackagePath": "staticwebassets/Images/Electronic/Electronics3.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Electronic/electronic4.png",
+      "PackagePath": "staticwebassets/Images/Electronic/electronic4.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Electronic/electronic5.png",
+      "PackagePath": "staticwebassets/Images/Electronic/electronic5.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Electronic/electronics2.png",
+      "PackagePath": "staticwebassets/Images/Electronic/electronics2.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Electronic/technology6.png",
+      "PackagePath": "staticwebassets/Images/Electronic/technology6.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Furniture/Furniture1.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture1.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Furniture/Furniture2.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture2.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Furniture/Furniture3.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture3.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Furniture/Furniture4.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture4.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Furniture/Furniture6.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture6.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Furniture/Furniture7.png",
+      "PackagePath": "staticwebassets/Images/Furniture/Furniture7.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Shoes/Shoes1.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes1.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Shoes/Shoes2.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes2.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Shoes/Shoes3.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes3.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Shoes/Shoes5.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes5.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Shoes/Shoes6.png",
+      "PackagePath": "staticwebassets/Images/Shoes/Shoes6.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/Images/Shoes/shoes4.png",
+      "PackagePath": "staticwebassets/Images/Shoes/shoes4.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/lone_wolf/Desktop/servers/blazor_server/BlazorClient/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BlazorClient.props",
+      "PackagePath": "build\\BlazorClient.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlazorClient.props",
+      "PackagePath": "buildMultiTargeting\\BlazorClient.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlazorClient.props",
+      "PackagePath": "buildTransitive\\BlazorClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

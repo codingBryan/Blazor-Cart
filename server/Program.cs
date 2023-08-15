@@ -6,8 +6,7 @@ global using server.entities.DTOs;
 global using server.Extensions;
 global using server.Repositories.ProductRepo;
 global using server.Data;
-global using server.Repositories.ProductRepo;
-
+using Microsoft.Net.Http.Headers;
 
 var builder = WebApplication.CreateBuilder(args);
 var conn_string=builder.Configuration.GetConnectionString("ShoppingAppConnection");
@@ -21,8 +20,12 @@ builder.Services.AddDbContext<DataContext>(options=>{
 });
 
 builder.Services.AddScoped<IProductRepository,ProductRepository>();
+builder.Services.AddCors(options => options.AddDefaultPolicy( policy=>{
+    policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+}));
 
 var app = builder.Build();
+
 
 if (app.Environment.IsDevelopment())
 {
@@ -31,7 +34,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+//Enabling Cross Origin Resources
+app.UseCors();
 app.UseAuthorization();
 
 app.MapControllers();
